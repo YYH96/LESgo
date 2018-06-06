@@ -112,4 +112,9 @@ public class MenuActivity extends AppCompatActivity {
         });
     }
 
+    @Override
+    public void onBackPressed(){    //뒤로가기 버튼 막음
+
+    }
+
 }
